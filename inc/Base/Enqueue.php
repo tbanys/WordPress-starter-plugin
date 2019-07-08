@@ -1,6 +1,6 @@
 <?php 
 /**
- * @package  TbanysPlugin
+ * @package  tbanysPlugin
  */
 namespace Inc\Base;
 
